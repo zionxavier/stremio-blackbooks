@@ -3,3 +3,5 @@
 Finds ebooks from open directories in Stremio.
 
 This add-on proxies the catalog and meta from the Books add-on, but handles stream requests internally responding with external URLs to download eBooks for free.
+
+Install this add-on from Stremio's catalog, available under the name: Black Books
